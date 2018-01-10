@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<p>welcome to new site</p>
+<p>welcome to new site for devops application</p>
 
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -72,7 +72,7 @@
   <div class="main">
     <h2>The Walk</h2>
     <p>The walk to the Pulpit Rock will take you approximately two hours, give or take an hour depending on the weather conditions and your physical shape.</p>
-    <img src="images/img_pulpit.jpg" style="width:100%">
+    <img src="images/royal-enfield-classic-500-stealth-black.jpg" style="width:100%">
   </div>
 
   <div class="right">
